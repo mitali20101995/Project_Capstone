@@ -1,0 +1,98 @@
+<resources>
+
+    <string-array name="city_values">
+        <item>Select Location</item>
+        <item>Toronto</item>
+        <item>Kitchener</item>
+        <item>Cambridge</item>
+        <item>Brampton</item>
+        <item>Mississauga</item>
+    </string-array>
+
+    <string-array name="po_values">
+        <item>Select Purchase Order#</item>
+        <item>83443</item>
+        <item>45899</item>
+        <item>30893</item>
+        <item>83489</item>
+    </string-array>
+
+    <string-array name="project_values">
+        <item>Select Project Order Name</item>
+        <item>Project1</item>
+        <item>Project2</item>
+        <item>Project3</item>
+        <item>Project4</item>
+    </string-array>
+
+    <string-array name="quote_values">
+        <item>Select Quote</item>
+        <item>Quote1</item>
+        <item>Quote2</item>
+        <item>Quote3</item>
+        <item>quote4</item>
+    </string-array>
+
+    <string-array name="submit_values">
+        <item>Select Name</item>
+        <item>Value1</item>
+        <item>Value2</item>
+        <item>Value3</item>
+        <item>Value4</item>
+    </string-array>
+
+    <string-array name="invoice_values">
+        <item>Select Invoice</item>
+        <item>Invoice1</item>
+        <item>Invoice2</item>
+        <item>Invoice3</item>
+        <item>Invoice4</item>
+    </string-array>
+
+    <string-array name="status_values">
+        <item>Select Status</item>
+        <item>Done</item>
+        <item>Active</item>
+        <item>Discarded</item>
+        <item>Started</item>
+    </string-array>
+
+    <string-array name="reportTo_values">
+       <item>David Partridge</item>
+       <item>Harvey-Lee Rivers</item>
+        <item>Phillip Wyatt</item>
+        <item>Fahmida Leonard</item>
+       <item>Adyan Walton</item>
+        <item>Garrett Boyce</item>
+        <item>Milena Wharton</item>
+        <item>Priyanka Andrews</item>
+        <item>Ruby-Mae Swan</item>
+    </string-array>
+
+    <string-array name="package_values">
+        <item>1000</item>
+        <item>4000</item>
+        <item>6000</item>
+        <item>8000</item>
+        <item>13000</item>
+    </string-array>
+
+    <string-array name="flag_values">
+        <item>Flag1</item>
+        <item>Flag2</item>
+        <item>Flag3</item>
+        <item>Flag4</item>
+        <item>Flag5</item>
+    </string-array>
+
+    <string-array name="shipper_status_values">
+        <item>Select Status</item>
+        <item>590</item>
+        <item>404</item>
+        <item>303</item>
+        <item>707</item>
+    </string-array>
+
+
+
+</resources>
